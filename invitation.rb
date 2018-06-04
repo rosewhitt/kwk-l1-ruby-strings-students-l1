@@ -24,7 +24,11 @@ rsvp_date = gets.strip
 
 puts "Dear #{guest_name},"
 
+puts "   "
+
 puts "You are cordially invited to the #{party_name} on #{date} at #{time}. Please RSVP no later than #{rsvp_date}."
+
+puts "   "
 
 puts "Sincerely,"
 
