@@ -32,4 +32,4 @@ puts "   "
 
 puts "Sincerely,"
 
-puts "host_name"
+puts "#{host_name}"
